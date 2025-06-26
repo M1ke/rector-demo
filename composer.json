@@ -1,0 +1,10 @@
+{
+  "name": "m1ke/rector-demo",
+  "license": "MIT",
+  "require": {
+    "php": "8.3.*"
+  },
+  "require-dev": {
+    "rector/rector": "^2.1"
+  }
+}
